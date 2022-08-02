@@ -1,7 +1,38 @@
+# Tell me about yourself
+a software engineer, 
+.net/angular/react/vue
 
-Firstly, this job is an ideal match for my skills and experience, I’ve spent several years working in .net and react..
+I live in Xi'an, a city famous for the Terra Cotta Warriors. 
+
+### hobby
+I like jump rope after work, spend lots of time to practice a jump rope action
+My happiest thing is get up at Saturday morning, find a place near by my home, jump rope with some cheerful music
+
+### proud
+use of time efficiency, subway video english, 
+I’m particularly proud of I pass the free trial for the project I working on now in half month, I haven't learn React before
+
+# What are your strengths?
+motivated, 
+A good example that comes to mind is....elyte/baseball, I'm not familiar baseball, I spend lots of time to learn it, 
+1.看视频了解基本规则
+2.查询整理业务名称
+3.看比赛实践所学
+4.从比赛中验证一些业务逻辑
+想尽一切办法，弄明白客户的业务
+
+use of time efficiency, learn in subway
+
+# What are your weaknesses?
+
+
+### Why do you want to work here?
+Firstly, this job is an ideal match for my skills and experience, I’ve spent several years working in .net and front-end technical angular/react/vue
 Secondly, I know brandcrush is a fast-growing company, and I want to be part of that.
+Above all...
 
-A good example that comes to mind is....
-I’m particularly proud of...
 Timekeeping is important to me
+
+# My question
+1. How long I can work here? long term project?
+2.
