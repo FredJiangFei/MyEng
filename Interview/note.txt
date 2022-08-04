@@ -15,7 +15,6 @@ STAR: situation/task/action/result
 (action) I arranged for a replacement to be sent, thinking we could find out what happened to the previous order later.
 (result) In the end, the customer was happy that I could solve his problem quickly and simply.
 
-
 How do you think your values fit with our company culture?
 I think my values are a good fit for your company culture for two reasons.......
 
