@@ -16,7 +16,7 @@ The car's design is a throwback to the 1960s.
 # I'll be right back.
 # you doing my ears a favor
 # What can I do for you? => What canI do foryou
-# part-time / full-time
+# part-time / full-time / permantly
 # But Joe has always dreamed of being sth else.
 # He's a musician (at heart).
 
