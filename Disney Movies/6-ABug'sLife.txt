@@ -11,9 +11,11 @@ Flik builds a bird to scare away the grasshoppers
 # burn down
 but after it accidentally burn down
 
+# piece of dirt
+
+# mindless
+
 # to shove
-
-
 
 SCENE B
 # creative giant
