@@ -2,6 +2,8 @@ SCENE A
 # All your little stunt did was buy them time!
 # grasshopper
 
+# species
+
 # misfit / recruit / circus / free
 misfit ant named Flik / who helps recruit a group of circus bugs / to help free his colony / from the tyranny of evil grasshoppers
 
@@ -18,10 +20,20 @@ but after it accidentally burn down
 # to shove
 
 SCENE B
+# we got a schedule to keep / we have to keep to the schedule
+
+# hatching
+hatch: 
+1. an egg breaks in order to allow a young animal to come out
+2. make a especially a secret plan / he hatched a plan to (sneak) out of the house
+
 # creative giant
 # my place is here => I belong here
 # your loss
+She doesn't want to come to the party? Oh well, it's her loss.
 # What's with xxxx
 
-# goofed up
+# goofed up / mess up
+an informal way of saying someone did sth badly or made a silly mistake that caused sth to fail
+
 # mushy
