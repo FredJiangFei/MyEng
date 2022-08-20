@@ -36,7 +36,7 @@ I could get you some nocotine gum if you like?
 I'll stub it out as you asked so nicely.
 
 # keep it a secret / permitted / company premises
-We'll keep it a secret this time but please don't do it again. I'm afraid it's just not permitted on company premises.
+We'll keep it a secret this time but please don't do it again. I'm afraid it's just not permitted / on company premises.
 
 # dealt with
 You dealt with Mr Ingle really well.
