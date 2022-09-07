@@ -1,3 +1,52 @@
+
+# Looks like someone's trying to be clever.
+
+# Not even
+I promise you will not set foot on the Dragon Gem's inner circle. Not even a toe.
+
+# blade
+You might wanna take out that blade.
+
+# don't beat yourself up too much 
+
+# generations / sworn(swear)
+For generations, our family has sworn to protect the gem.
+
+# legacy
+Today, you will join that legacy.
+
+# The other lands, they're on their way here, as we speak.
+
+# Tail
+A sweltering desert with sneaky mercenaries who fight dirty.
+
+# Talon
+A floating market famous for fast deals and fighters with even faster hands.
+
+# Spine
+A frigid bamboo forest guarded by exceptionally large warriors, and their giant axes.
+
+# Fang
+Our fiercest enemy. A nation protected by angry assassins, and their even angrier cats.
+
+# poison
+We'll poison them?
+
+# prosperity
+They're only our enemies because they think the Dragon Gem magically brings us prosperity.
+
+# ridiculous
+That's ridiculous. It doesn't do that.
+
+# assume
+They assume it does,
+
+# ancient history
+That's ancient history
+
+# a matter of time
+ if we don't stop and learn to trust one another again, it's only a matter of time / before we tear each other apart.
+
 # For far too long
 For far too long, we have been enemies, but today is a new day.
 
@@ -7,7 +56,7 @@ Today, we can be Kumandra once more.
 # pontificate
 it's easy to pontificate on Kumandra when you hold the mightiest weapon in all the lands
 
-# weapon / relic
+# weapon / sacred relic
 The gem's not a weapon. It's a sacred relic.
 
 # fairy tales
@@ -15,9 +64,9 @@ He brought us all this way to talk about fairy tales.
 
 # This is pointless
 
-# nerd
+# nerd 
 I might be a little bit of a dragon nerd.
-I’m the one wearing the Sisu fan necklace.
+I'm the one wearing the Sisu fan necklace.
 
 # Have you eaten yet?
 
