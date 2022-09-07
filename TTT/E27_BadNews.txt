@@ -10,8 +10,8 @@ Don't you think I should be sitting in the big chair?
 #################################################################### 
 I gotta give it to you straight.
 
-# outlook
-Things ain’t looking good, in fact the outlook is gloomy.
+# outlook / gloomy
+Things ain't looking good, in fact the outlook is gloomy.
 
 # recession / meltdown
 The global recession has led to a meltdown in the plastic fruits sector.
@@ -43,7 +43,7 @@ She'll be here in a few weeks.
 # prefer
 Do you know if she prefers tea or coffee
 
-# Your necks will be on the line - he means their jobs will be at risk if things don't improve.
+# Your necks will be on the line - he means their jobs will be at risk / if things don't improve.
 
 # pint / hospitality
  I think we need to take Mr Socrates down to the Rose and Crown / after work / for a pint or two / and show him some true English hospitality.
