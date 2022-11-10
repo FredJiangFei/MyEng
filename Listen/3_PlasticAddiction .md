@@ -8,6 +8,7 @@ Today we’re talking about plastic.
 # addiction / decay
 Yes, it’s our addiction to plastic that is of concern. Because this material doesn’t decay very quickly. So once we’ve used it, it hangs around for a very long time.
 
+# particles / consequences
 It is a problem. And ’decay’, by the way, describes the natural process of something being destroyed or breaking down into small particles. We hear so much about the consequences of / having too much waste plastic around, don’t we?
 
 # Indeed
@@ -24,9 +25,10 @@ I’m no expert, so I’ll say c) Formica.
 # reveal the answer / substance
 Well, we’ll reveal the answer at the end of the programme. Now let’s talk more about plastic. This man-made substance is everywhere - from clothing to crisp packets, and bottles to buckets.
 
-# single-use
+# single-use / biodegradable
 But the problem is that most of it isn’t biodegradable. That’s a word that describes something that can decay naturally without harming anything. Each year, 400 million tonnes of plastic is produced and 40% of that is single-use. So why don’t we stop using it?
 
+# quitting
 It’s not that easy, Rob, and it’s something Lucy Siegle, a BBC reporter and author, has been talking about. She was speaking in a discussion on the Costing the Earth programme on BBC Radio 4, and explained the issue we have with quitting plastic but also how our attitude is changing…
 
 # psychological
@@ -46,7 +48,7 @@ And this dissonance has been the barrier to us trying to solve the plastic issue
 
 We’re turning to activism. That’s taking action to change something. It could be social or political change, or a change in our behaviour or attitude.
 
-# recycle
+# recycle / a big push
 Of course there has been a big push, that means people have been strongly encouraged to recycle.
 
 # plastic-free
@@ -71,7 +73,7 @@ And I said c) Formica. Was I right?
 # hard plastic
 Formica is a type of hard plastic used for covering tables and working areas in kitchens. But it’s not the oldest type. That was Bakelite.
 
-# decay
+# decay / recapping
 I may have got that wrong, but hopefully I’ll have more success recapping some of today’s vocabulary. Starting with ’decay’, which describes the natural process of something being destroyed or breaking down into small particles, which plastic takes a long time to do.
 
 Next we had ’biodegradable’. That’s a word to describe something that can decay naturally without harming anything.
@@ -80,7 +82,7 @@ Then we had ’psychological’, that’s something that affects or involves you
 
 Next up, we had ’dissonance’, which describes a disagreement between two opposing ideas.
 
-# a big push
+# a big push / persuade
 And then we mentioned ’activism’, that’s taking action to change something. 
 
 We also mentioned the phrase ’a big push’ which means people are strongly encouraged or persuaded to do something, usually by force.
