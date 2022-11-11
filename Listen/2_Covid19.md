@@ -34,6 +34,7 @@ The technology that we are offering is using Bluetooth wristbands or tags that p
 
 # retrace / infected / in contact with
 # down the line
+# in case
 When the proximity event has been recorded / its been saved by the company / in case they need to, further down the line, retrace the steps of a certain person / who has been declared as infected / and inform anyone else they may have been in contact with.
 
 One important way to control coronavirus involves contact tracing. This means that someone who tests positive for the disease / informs everyone else they’ve been in contact with. Microshare’s system for this uses Bluetooth - technology that allows computers, mobile phones and other devices / to communicate with each other / without being connected by wires.

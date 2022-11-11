@@ -54,7 +54,7 @@ Of course there has been a big push, that means people have been strongly encour
 # plastic-free
 Maybe in an ideal world the best thing to do is go plastic-free. But that isn’t easy, is it?
 
-# Getting rid of
+# Getting rid of / gradual process
 No, it isn’t, and it’s something Lucy Siegle spoke about. Getting rid of plastic in our lives is a gradual process. But where does she think we can make the biggest difference?
 
 I really think that to concentrate on stopping the flow of plastics into your life is easier and more effective in the long term, than trying to go plastic-free from the outset. We are in the UK, a supermarket culture, so a lot of the tips and tricks to decreasing the flow of plastic are getting round supermarket culture.
