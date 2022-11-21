@@ -106,9 +106,9 @@ Maybe it’s best I don’t get involved then. After all, a fool and his money a
 # quiz
 Well, you don’t have to be sceptical about the answer to our quiz. We know that for a fact. I asked you when the Bitcoin crypto-currency was first created.
 
-a) 2004
-b) 2009
-c) 2013
+a) 2004 ==> 2000 + 4
+b) 2009 ==> 2000 + 9
+c) 2013 ==> 20 + 13
 
 And I said 2009.
 
