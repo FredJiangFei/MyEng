@@ -84,6 +84,7 @@ Good idea. Let’s talk about
 
 paunch – another name for a fat stomach that men like me – and you – have
 
+# skinny
 Speak for yourself! I’m closer to skinny – a word to describe someone looking very thin and sometimes ill. 
 
 Our next word was willpower. If you have willpower, you can control your own behaviour to achieve something
