@@ -1,6 +1,7 @@
 Hello. This is 6 Minute English from BBC Learning English. I’m Rob
 
 And I’m Sam
+# cover of a magazine
 Having your photograph appear on the cover of a magazine makes you famous around the world. 
 
 # chimpanzees
