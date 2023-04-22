@@ -57,7 +57,7 @@ Maybe in an ideal world the best thing to do is go plastic-free. But that isn’
 # Getting rid of / gradual process
 No, it isn’t, and it’s something Lucy Siegle spoke about. Getting rid of plastic in our lives is a gradual process. But where does she think we can make the biggest difference?
 
-I really think that to concentrate on stopping the flow of plastics into your life is easier and more effective in the long term, than trying to go plastic-free from the outset. We are in the UK, a supermarket culture, so a lot of the tips and tricks to decreasing the flow of plastic are getting round supermarket culture.
+I really think that to concentrate on stopping the flow of plastics into your life is easier and more effective in the long term, than trying to go plastic-free from the outside. We are in the UK, a supermarket culture, so a lot of the tips and tricks to decreasing the flow of plastic are getting round supermarket culture.
 
 She says we have a supermarket culture in the UK. Culture’ here describes a way of life or a way that we generally behave. And in terms of food shopping, we tend to do that in supermarkets.
 

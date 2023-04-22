@@ -2,7 +2,7 @@ Hello, this is 6 Minute English. I'm Sam.
 
 And I'm Rob.
 
-Are good at complaining, Rob?
+Are your good at complaining, Rob?
 
 Of course not. I’m British!
 

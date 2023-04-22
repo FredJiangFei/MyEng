@@ -10,7 +10,7 @@ c) 2005
 Listen to the programme to find out the answer.
 
 Vocabulary
-FOMO
+ 
 (acronym) Fear of Missing Out
 
 phubber
